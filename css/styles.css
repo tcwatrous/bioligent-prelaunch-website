@@ -189,8 +189,8 @@ p {
 
 .header-logo {
   margin-bottom: 2rem !important;
-  padding-left: 3rem;
-  padding-right: 3rem;
+  padding-left: 0rem;
+  padding-right: 6rem;
 }
 
 abbr[title] {
